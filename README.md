@@ -1,7 +1,7 @@
 # learning_git
 repository for learning git hub
 
-````javascript
+````python
 console.log("testing code");
 
 
